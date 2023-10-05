@@ -1,8 +1,0 @@
-.container {
-  margin: 0 auto;
-  width: 90vw;
-  
-  @media (max-width: 768px) {
-    width: 95vw;
-  }
-}
