@@ -1,6 +1,6 @@
 # eCommerce-Application
 
-**Deploy**: https://touristtracks-store.netlify.app/  
+**Deploy**: https://tourist-store.netlify.app/
 
 <center><img src="./src/assets/images/main.png" alt="Main Mage Screenshot" width="850"></center>
 
